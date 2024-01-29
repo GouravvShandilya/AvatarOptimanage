@@ -1,7 +1,7 @@
 
 function Navbar() {
   return (
-    <div>
+    <div className="w-[100vw] h-[10vh] bg-green-600">
       
     </div>
   )

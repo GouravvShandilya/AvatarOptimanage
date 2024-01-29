@@ -4,13 +4,15 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#FEFEFF", // Custom primary color
+        primary: "#F3F7F9", // Custom primary color
         secondary: "#ffed4a", // Custom secondary color
         unselectedText: "#6F778D", // for the text that are not selected
         button: "#094CF2", // Custom button color
         icon: "#2763F4", //for the icons
       },
+    
     },
   },
-  plugins: [],
+  plugins: [
+  ],
 };
