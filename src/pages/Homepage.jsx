@@ -29,7 +29,7 @@ function Homepage() {
   };
 
   return (
-    <div className="w-[100vw]  h-auto bg-primary">
+    <div className="w-[100vw] my-[5em]  h-auto bg-primary">
       {/* 1st main page*/}
       <div className="w-full h-[100vh] flex">
         <div className="w-[50%] h-[100%]  flex items-center justify-center ">
@@ -112,7 +112,7 @@ function Homepage() {
                 </div>
               </div>
 
-              <div className="w-[18%] h-[80%   flex">
+              <div className="w-[18%] h-[80%]   flex">
                 <div className="w-[20%] h-[100%]    flex items-center justify-center text-[1.5vw]">
                   <RiHeadphoneLine />
                 </div>
